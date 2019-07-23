@@ -8,6 +8,7 @@ TODO.md
 npm-debug.log
 *.sublime-*
 .idea
+dist
 yarn.lock
 .vscode
 exampleslib
